@@ -5,8 +5,8 @@ export const profile = {
   role: 'Backend Developer',
   tagline:
     'Xây API vững chắc, hệ thống dễ vận hành — Laravel, FastAPI và Docker.',
-  email: 'hello@example.com',
-  location: 'Việt Nam',
+  email: 'sonnt.code@gmail.com',
+  location: 'Hà Nội, Việt Nam',
   links: {
     github: 'https://github.com/',
     linkedin: 'https://linkedin.com/in/',
