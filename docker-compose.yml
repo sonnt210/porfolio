@@ -1,0 +1,7 @@
+services:
+  portfolio:
+    build: .
+    image: sona-info-portfolio:local
+    ports:
+      - "8080:80"
+    restart: unless-stopped

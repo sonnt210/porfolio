@@ -1,0 +1,12 @@
+node_modules
+dist
+.git
+.cursor
+.vscode
+*.md
+.env
+.env.*
+npm-debug.log*
+.DS_Store
+coverage
+.oxlintrc.json
